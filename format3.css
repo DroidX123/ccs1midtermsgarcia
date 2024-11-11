@@ -1,0 +1,21 @@
+p{
+color:red;
+}
+#blue{
+color:blue;
+font-weight:bold;
+}
+#green{
+color:green;
+font-weight:bold;
+}
+table, th, td, tr{
+border:1px solid red;
+}
+.th{
+background-color:red;
+color:white;
+}
+.course{
+color:red;
+}

@@ -1,0 +1,71 @@
+body{
+  margin: 0;
+}
+.bg1 {
+  background-image: url("bg1.jpg");
+  height:400px;
+  min-height: 700px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.box1{
+  border: 3px white solid;
+  font-weight: bold;
+  background-color: #00ada8;
+  position: absolute;
+  left: 35%;
+  top: 50%;
+  width: 30%;
+  text-align: center;
+}
+.p1{
+  color: #fff;
+}
+.box2{
+  padding: 10px;
+  border: 3px white solid;
+  color: white;
+  background-color: #00ada8;
+  text-align: justify;
+  font-size: 17px;
+}
+.box3{
+  border: 3px white solid;
+  font-weight: bold;
+  background-color: #00ada8;
+  position: absolute;
+  left: 35%;
+  top: 180%;
+  width: 30%;
+  text-align: center;
+}
+.box4{
+  text-align: center;
+  padding: 10px;
+  border: 3px white solid;
+  color: white;
+  background-color: #00ada8;
+  font-size: 17px;
+}
+.bg2 {
+  background-image: url("bg2.jpg");
+  min-height: 600px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+a:link {
+  color:white;
+}
+  a:visited {
+  color:black;
+}
+  a:hover {
+  color:yellow;
+}
+  a:active {
+  color:red;
+}
