@@ -19,7 +19,7 @@ h1{
     margin:auto;
 }
 .textbox{
-    width: 90%;
+    width: 100%;
 }
 .checkbox-container {
     display: flex;
