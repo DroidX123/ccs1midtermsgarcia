@@ -4,7 +4,7 @@ body{
 .bg1 {
   background-image: url("bg1.jpg");
   height:400px;
-  min-height: 800px;
+  min-height: 700px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -16,7 +16,6 @@ body{
   background-color: #00ada8;
   position: absolute;
   left: 35%;
-  top: 30%;
   width: 30%;
   text-align: center;
 }
@@ -37,7 +36,6 @@ body{
   background-color: #00ada8;
   position: absolute;
   left: 35%;
-  top: 150%;
   width: 30%;
   text-align: center;
 }
